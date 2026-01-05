@@ -2,6 +2,8 @@
 
 Minimal personal website built with React + Vite and styled with Tailwind CSS. Includes reusable components (Navbar, Hero, Features, Pricing, Testimonials, Footer) and example data.
 
+![Website screenshot](public/screenshot.png)
+
 ## Quick start
 
 Requirements:
