@@ -2,13 +2,10 @@
 
 Minimal personal website built with React + Vite and styled with Tailwind CSS. Includes reusable components (Navbar, Hero, Features, Pricing, Testimonials, Footer) and example data.
 
-<<<<<<< HEAD
-=======
 ## 🚀 Live Demo
 
 [Click here to view the live demo](https://tourmaline-froyo-f10715.netlify.app/)
 
->>>>>>> 4bd8994 (Add live demo link)
 ![Website screenshot](public/screenshot.png)
 
 ## Quick start
